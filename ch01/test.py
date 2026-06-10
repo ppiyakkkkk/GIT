@@ -1,1 +1,1 @@
-print('hi!T^^')
+print('hi!^^')
